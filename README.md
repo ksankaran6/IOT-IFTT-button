@@ -1,3 +1,10 @@
+Build your custom Nodelua image using this service : http://nodemcu-build.com/index.php
+
+Select the Dev branch with support for "end user setup" module along with file,net,node and GPIO
+
+Burn the image to the esp01 using http://esp8266.ru/esplorer/ 
+
+And upload 
 Derived work based on work by the following individuals.
 
 Noel Portugal:
